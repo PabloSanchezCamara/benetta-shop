@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencias
+node_modules
+
+# Builds
+dist
+dist-ssr
+
+# Archivos locales
+*.local
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Cobertura de tests
+coverage/
+
+# Cache de herramientas
+.cache/
+.parcel-cache/
+
+# Configuración de editores
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

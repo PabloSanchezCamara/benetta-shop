@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
